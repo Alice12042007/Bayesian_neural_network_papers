@@ -3,11 +3,10 @@
 ## Orginal
 1. [A Practical Bayesian Framework for Backpropagation Networks](https://authors.library.caltech.edu/13793/1/MACnc92b.pdf)
 
-2. [Bayesian learning for neural networks](http://www.csri.utoronto.ca/~radford/ftp/thesis.pdf)
+2. [Bayesian learning for neural networks](https://glizen.com/radfordneal/ftp/thesis.pdf)
 
 ## What I like the most:
-1. [Bayesian learning for neural networks](http://www.csri.utoronto.ca/~radford/ftp/thesis.pdf)
-
+1.  [Bayesian learning for neural networks](https://glizen.com/radfordneal/ftp/thesis.pdf)
 2. [Weight Uncertainty in Neural Networks](https://arxiv.org/abs/1505.05424)
 
 3. [Noisy Natural Gradient as Variational Inference](https://arxiv.org/abs/1712.02390)
